@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T02:21:10.430Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bCFRrArRIu9MG7pas4A_" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T03:07:27.481Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="AuLF9yhySCF7mSZrSb6o" version="16.5.3" type="github">
   <diagram id="mdwYtrKqwy-pj7ubtLok" name="Page-1">
     <mxGraphModel dx="533" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="CqU0eDEBqgqhNID599-w-50" value="Convolutional" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="368" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqU0eDEBqgqhNID599-w-51" value="Batch normalization" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="CqU0eDEBqgqhNID599-w-51" value="Batch normalization + Relu" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="620" y="418" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqU0eDEBqgqhNID599-w-52" value="Adaptative average pooling" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
